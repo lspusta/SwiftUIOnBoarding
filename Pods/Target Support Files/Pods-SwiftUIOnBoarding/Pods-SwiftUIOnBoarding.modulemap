@@ -1,0 +1,6 @@
+framework module Pods_SwiftUIOnBoarding {
+  umbrella header "Pods-SwiftUIOnBoarding-umbrella.h"
+
+  export *
+  module * { export * }
+}
